@@ -1,6 +1,6 @@
 # Data
 
-This folder holds the raw dataset used in this project. The CSV itself is **not** committed to the repo (see the root `.gitignore`) — download it manually and place it here.
+This folder holds the raw dataset used in this project. The CSV itself is **not** committed to the repo (see the root `.gitignore`), download it manually and place it here.
 
 ## Download Instructions
 
@@ -39,4 +39,4 @@ This folder holds the raw dataset used in this project. The CSV itself is **not*
 
 ## License
 
-CC0 1.0 Public Domain — free to use for academic, personal, or commercial purposes.
+CC0 1.0 Public Domain: free to use for academic, personal, or commercial purposes.

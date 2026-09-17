@@ -33,7 +33,6 @@ The raw CSV is not committed to this repo (see `.gitignore`). Download instructi
 ├── data/              # Download instructions for the raw dataset
 ├── notebooks/         # Exploratory analysis and modeling notebooks
 ├── src/               # Source code (data processing, modeling, dashboard)
-├── requirements.txt   # Python dependencies
 └── .gitignore
 ```
 
